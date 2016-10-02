@@ -1,0 +1,17 @@
+.top-bar, .top-bar ul, .top-bar-left, .orbit, .menu {
+    background-color: #7ecefd;
+    color: #fff;
+}
+
+.menu>li>a {
+    color: #fff;
+}
+.orbit-slide{
+  background-color: #7ecefd;
+  color: #fff;
+
+}
+img{
+
+  background-color: #7ecefd;
+}
